@@ -1,2 +1,2 @@
 # AndroidListas
-Tutorial de LisView con fragmentos
+Empezamos el proyecto con un *MainActivity empty* 
